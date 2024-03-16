@@ -1,5 +1,8 @@
 After 11 years of a steady movement from PHP Fullstack developer towards Operations Engineer with a strong focus on LAMP/LEMP software stack I finally switched to the DevOps position in 2019 and keep advancing in that direction.
-Interested in a collaboration as a Junior Golang developer / Middle DevOps Engineer
+
+Currently I primarily speciaze in dockerizing microservices and setting up CI/CD process for microserice-based apps.
+ 
+Interested in a collaboration as a Junior Golang Developer / Middle DevOps Engineer
 
 **Reach me out https://www.linkedin.com/in/dubiniuk/**
 
