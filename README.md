@@ -1,10 +1,13 @@
-After 11 years of a steady movement from PHP Fullstack developer towards Operations Engineer with a strong focus on LAMP/LEMP software stack I finally switched to the DevOps position in 2019 and keep advancing in that direction.
+My professional career started with 11 years of a steady movement from PHP Full Stack Developer towards Operations Engineer with a strong focus on LAMP/LEMP software stack. After these years I finally switched to the DevOps position in 2019 and keep advancing in that direction.
 
-Currently I primarily speciaze in dockerizing microservices and setting up CI/CD process for microserice-based apps.
- 
-Interested in a collaboration as a Junior Golang Developer / Middle DevOps Engineer
+Right now I primarily speciaze in dockerizing microservices and setting up CI/CD processes for microserice-based web apps. 
+
+Interested in a collaboration as a Golang Developer / Middle DevOps Engineer
 
 **Reach me out https://www.linkedin.com/in/dubiniuk/**
+
+:earth_africa: Warsaw, Poland
+
 
 <!--
 **VicDeo/vicdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
