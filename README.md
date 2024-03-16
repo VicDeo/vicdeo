@@ -1,4 +1,7 @@
-### Hi there 👋
+After 11 years of a steady movement from PHP Fullstack developer towards Operations Engineer with a strong focus on LAMP/LEMP software stack I finally switched to the DevOps position in 2019 and keep advancing in that direction.
+Interested in a collaboration as a Junior Golang developer / Middle DevOps Engineer
+
+**Reach me out https://www.linkedin.com/in/dubiniuk/**
 
 <!--
 **VicDeo/vicdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
